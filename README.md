@@ -1,10 +1,14 @@
-# gpu-observer
+# gpu-observer-hyprland
 
 A terminal-based GPU/CPU/RAM monitor that runs in a floating kitty window in Hyprland. Toggle it on and off with a keybind — it stays alive in the background when hidden.
 
 Displays: GPU temperature (large), GPU/memory bandwidth utilisation, power draw, clock speeds, fan speed, VRAM usage, system RAM breakdown, per-core CPU utilisation bars, utilisation history sparklines, and a live table of processes using the GPU.
 
 Built with ratatui, nvml-wrapper (NVIDIA only), and sysinfo.
+
+## Demo
+
+<img src="https://github.com/krshrimali/gpu-observer-hyprland/blob/main/image.png"/>
 
 ## Build & install
 
