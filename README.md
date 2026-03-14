@@ -8,7 +8,7 @@ Built with ratatui, nvml-wrapper (NVIDIA only), and sysinfo.
 
 ## Demo
 
-<img src="https://github.com/krshrimali/gpu-observer-hyprland/blob/main/image.png"/>
+<img src="https://github.com/krshrimali/gpu-observer-hyprland/blob/main/sample.jpeg"/>
 
 ## Build & install
 
